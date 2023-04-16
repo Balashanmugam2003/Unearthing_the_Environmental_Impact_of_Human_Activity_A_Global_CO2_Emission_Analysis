@@ -10,4 +10,4 @@ Dashboard link 4 - https://public.tableau.com/app/profile/balashanmugam.s/viz/Co
 
 Story link       - https://public.tableau.com/app/profile/balashanmugam.s/viz/Co2emissionstory/Co2EmissionStory
 
-video link       - https://drive.google.com/file/d/1AAZ-9C1e0vglPmDTxOX6oXy79A2seGjS/view?usp=share_link
+video link       - https://youtu.be/DQtHfviSVTA
